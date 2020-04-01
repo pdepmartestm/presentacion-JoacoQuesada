@@ -12,3 +12,6 @@ presentacion-JoacoQuesada created by GitHub Classroom
 <p> Ademas de hacer videos soy modelo, mi último trabajo importante fue una campaña para Levis Latinoamérica, el mes pasado estuve en las portadas de todos los locales de Levis de Argentina e Uruguay <br />
 <p> A la computadora juego muy poco, antes tenía un vicio con el LOL pero ya lo dejé :) <br />
 <p> Por si me quieren conocer más esta es la red social que más uso además de TikTok, <a href="https://www.instagram.com/joaco_quesada/">Instagram</a> <br />
+  <p> <br />
+<img src="Joaco-Levis.JPEG" /></p>
+<h3> Pd. Después de que pase la cuarenta si quieren organizamos un cumpleaños entre todos los que cumplimos en ella ajaj </h3>
